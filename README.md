@@ -1,5 +1,5 @@
 # purdue student planner 
-This is a study planner for Purdue students. This program will let students track their exams and all due dates in one place. 
+This is a study planner for Purdue students and this program will let students track their exams and all due dates in one place. 
 
 ## problem
 This will solve the main issue of stress because students can be more organized with their assignments and deadlines now. The problem I am trying to solve is disorganization students face when managing all their assignments and deadlines. 
